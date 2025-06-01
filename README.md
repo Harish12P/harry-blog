@@ -15,7 +15,7 @@ _Your free instance will spin down with inactivity, which can delay requests by 
 
 1. Clone the repository.
    ```bash
-   git clone https://github.com/kartikjoshi267/quleep-assignment
+   git clone https://github.com/Harish12P/harry-blog.git
    ```
    
 2. __Running the server (backend):__
